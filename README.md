@@ -35,3 +35,6 @@ This project included the following steps:
 - Using visualizations, statistical analyses, and critical reasoning to draw appropriate conclusions regarding our dataset
 
 ### Sneak Peek:
+![Image of line graphs comparing Canada's strongest market index to the country's daily number of COVID-19 cases and deaths over time.](https://github.com/pcroome/pcroome_portfolio/blob/main/sneak_peek_images/CAN_stockXcasedeath.png)
+
+![Image of a line graph displaying both the proportion of daily COVID-19 deaths to daily COVID-19 cases in Canada and the percentage of the Canadian population which had received at least one dose of a COVID-19 vaccine over time.](https://github.com/pcroome/pcroome_portfolio/blob/main/sneak_peek_images/CAN_deathcaseXpopvax.png)
